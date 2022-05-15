@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SWA</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="email">E-mail</string>
+    <string name="password">Jelszó</string>
+    <string name="forgot_pw">Elfelejtett</string>
+    <string name="sign_in">Kérjük, jelentkezzen be a folytatáshoz.</string>
+    <string name="settings">Beállítások</string>
+    <string name="unit">Mértékegység</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="position">Hely</string>
+    <string name="language">Nyelv</string>
+    <string name="hun">Magyar</string>
+    <string name="eng">English</string>
+    <string name="mode">Sötét/világos mód</string>
+    <string name="dark_mode">Sötét mód</string>
+    <string name="auto">Automatikus</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="noti">Értesítések</string>
+    <string name="send_noti">Értesítések küldése</string>
+    <string name="save">Mentés</string>
+    <string name="cancel"><u>Mégsem</u></string>
+    <string name="empty">Minden adatot meg kell adni</string>
+    <string name="error">Hiba</string>
+    <string name="feels_like">Érzésre: </string>
+    <string name="auth_fail">Autentikációs hiba.</string>
+    <string name="locale">Lokális adatok</string>
+    <string name="loc_error">Hiba a hely lekérése közben</string>
+    <string name="city_error">A megadott város nem létezik.</string>
+</resources>

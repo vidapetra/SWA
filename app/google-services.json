@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306081079298",
+    "project_id": "weather-app-fff15",
+    "storage_bucket": "weather-app-fff15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306081079298:android:d05376ac492fa49b4b871b",
+        "android_client_info": {
+          "package_name": "com.vidapetra.swa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306081079298-b18k2571q1m4s6vfkui8t9a03tut9t7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygQqv6Tf7QNpCVAxkDtNsKzU02VSq-Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306081079298-b18k2571q1m4s6vfkui8t9a03tut9t7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
